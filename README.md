@@ -2,7 +2,7 @@
 
 ## 🌏 Who am I
 ### Hi there! I'm a developer who likes bodybuilding.
-### I don't know much about coding yet, but I am a developer who will grow further.
+### I don't know much about coding yet, but I'm the one who will grow further.
 ![blossom22's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossom22&show_icons=true&theme=algolia)
 * * *
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Mts_Row-E34F26?style=for-the-badge&logo=Mts_Row&logoColor=white">
 <img src="https://img.shields.io/badge/Deadlift-E34F26?style=for-the-badge&logo=Deadlift&logoColor=white">   
 <img src="https://img.shields.io/badge/Squat-1572B6?style=for-the-badge&logo=Squat&logoColor=white">
-<img src="https://img.shields.io/badge/Linear_leg_press-1572B6?style=for-the-badge&logo=Linear_leg_press&logoColor=white">   
+<img src="https://img.shields.io/badge/Linear_leg_press-1572B6?style=for-the-badge&logo=Linear_leg_press&logoColor=white"> 
 <img src="https://img.shields.io/badge/Lateral_raise-003545?style=for-the-badge&logo=Lateral_raise&logoColor=white">
 <img src="https://img.shields.io/badge/Shoulder_press-003545?style=for-the-badge&logo=Shoulder_press&logoColor=white">
 
