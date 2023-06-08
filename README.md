@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![<blossom22>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<blossom22>)](https://github.com/anuraghazra/github-readme-stats)
+[![blossom22's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossom22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
