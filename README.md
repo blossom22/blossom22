@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=%E2%98%85+Welcome+to+my+page+%E2%98%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%E2%98%85+Welcome+to+my+page+%E2%98%85)](https://git.io/typing-svg)
 
 ## 🌏 Who am I
 ### Hi there! I'm a developer who likes bodybuilding.
@@ -18,4 +18,4 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blossom22&layout=compact&theme=tokyonight)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blossom22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
