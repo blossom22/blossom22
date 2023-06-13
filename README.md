@@ -16,5 +16,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blossom22&layout=compact&theme=tokyonight)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blossom22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
