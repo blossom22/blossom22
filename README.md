@@ -3,7 +3,6 @@
 ## 🌏 Who am I
 ### Hi there! I'm a developer who likes bodybuilding.
 ### I don't know much about coding yet, but I'm the one who will grow further.
-![blossom22's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossom22&show_icons=true&theme=algolia)
 ---
 
 ## 🏋️‍♂️ My favorite workouts
