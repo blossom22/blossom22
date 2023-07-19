@@ -4,6 +4,7 @@
 ### Hi there! I'm a developer who likes bodybuilding.
 ### I don't know much about coding yet, but I'm the one who will grow further.
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossom22&show_icons=true&theme=algolia)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sparrow22)](https://solved.ac/sparrow22/)
 ---
 ## 🏋️‍♂️ My favorite workouts
