@@ -1,9 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%E2%98%85+Welcome+to+my+page+%E2%98%85)](https://git.io/typing-svg)
+<div align=center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1150&pause=2500&color=F7F100&center=true&vCenter=true&multiline=true&width=700&height=130&lines=We+do+not+stop+exercising+because+we+grow+old.;+We+grow+old+because+we+stop+exercising.;+-+Dr.+Kenneth+Cooper+-)](https://git.io/typing-svg)
+
 
 ## 🌏 Who am I
 ### Hi there! I'm a developer who likes bodybuilding.
 ### I don't know much about coding yet, but I'm the one who will grow further.
 ---
+
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sparrow22)](https://solved.ac/sparrow22/)
 ---
 ## 🏋️‍♂️ My favorite workouts
@@ -15,3 +20,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
+
+</div>
