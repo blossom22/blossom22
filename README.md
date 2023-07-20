@@ -1,7 +1,7 @@
 <div align=center>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1150&pause=2500&color=F7F100&center=true&vCenter=true&multiline=true&width=700&height=130&lines=We+do+not+stop+exercising+because+we+grow+old.;+We+grow+old+because+we+stop+exercising.;+-+Dr.+Kenneth+Cooper+-)](https://git.io/typing-svg)
-
+ 
 
 ## 🌏 Who am I
 ### Hi there! I'm a developer who likes bodybuilding.
