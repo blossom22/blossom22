@@ -4,7 +4,7 @@
  
 
 ## 🌏 Who am I
-### Hi there! I'm a developer who likes bodybuilding.
+### Hi there! I'm a developer who likes workout.
 ### I don't know much about coding yet, but I'm the one who will grow further.
 ---
 
